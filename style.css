@@ -5,6 +5,8 @@ font-family:'inter',sans-serif;
 padding: 20px;
 background-color: rgb(52, 52, 53);
 color: rgb(240, 200, 22);
+color: linear-gradient(90deg, #000000 0%, #fdbb2b 100%);
+color: #def50c;
 background: linear-gradient(90deg, #000000 0%, #5a0d0d 100%);
 color: #def50c;
 }
